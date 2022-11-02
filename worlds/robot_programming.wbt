@@ -7,10 +7,9 @@ EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/master/project
 
 WorldInfo {
   info [
-    "Benchmark objective: "
-    "learn how to program a robot."
+    "This benchmark will teach you how to make a Thymio move in Webots."
   ]
-  title "Robot Programming"
+  title "Basic Thymio benchmark"
   window "robot_programming_benchmark"
   basicTimeStep 20
   contactProperties [

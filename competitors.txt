@@ -1,1 +1,1 @@
-1:TotallyRandomGus/My-container-thymio:0:failure:2022-11-02
+1:TotallyRandomGus/My-container-thymio:0.9145349790596363:91.45%:2022-11-02
